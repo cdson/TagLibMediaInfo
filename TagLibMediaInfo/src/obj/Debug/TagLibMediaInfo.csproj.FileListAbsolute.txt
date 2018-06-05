@@ -1,0 +1,2 @@
+E:\Projects\Github\Github\Anees\TagLibMediaInfo\TagLibMediaInfo\src\obj\Debug\TagLibMediaInfo.csprojAssemblyReference.cache
+E:\Projects\Github\Github\Anees\TagLibMediaInfo\TagLibMediaInfo\src\obj\Debug\TagLibMediaInfo.csproj.CoreCompileInputs.cache
